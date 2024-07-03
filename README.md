@@ -20,7 +20,6 @@ satellite-image-classifier
 ┗ 📜 README.md
 ```
 
-
 ## Installation
 To run this project, you need to have Google Colab set up. Follow the instructions below to get started:
 
