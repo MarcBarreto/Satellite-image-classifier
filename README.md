@@ -18,6 +18,7 @@ The project is organized as follows:
 satellite-image-classifier
 ┣ 📜 satellite_image_classifier.ipynb
 ┗ 📜 README.md
+┗ 📜 LICENSE
 ```
 
 ## Installation
