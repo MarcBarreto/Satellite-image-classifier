@@ -14,9 +14,11 @@ This project focuses on classifying satellite images using a convolutional neura
 
 ## Project Structure
 The project is organized as follows:
+```sh
 satellite-image-classifier
 ┣ 📜 satellite_image_classifier.ipynb
 ┗ 📜 README.md
+```
 
 
 ## Installation
